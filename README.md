@@ -2,7 +2,7 @@
 S&P 500 Weekly Movements Final Report
 
 
-link to jupyter notebook with findings:
+link to jupyter notebook with findings: https://github.com/jlatouche7/S-P-500-Weekly-Model/blob/b7869e451d6d7488ab59f59e4a76e8e1962b8b9c/SP500%20-%20Daily%20Final.ipynb
 
 Question: How can small companies leverage and effectively invest their extra resources so they can become a more profitable company or scale up in size?
 Problem: The S&P 500 is often used to gauge general market trends, and many people consider it to be a gauge of the overall economic health of the United States. Many companies, especially smaller companies, lack the resources and tools to invest their extra funds properly. My goal is to give these companies a tool that can give them a general idea of the S&P 500’s upcoming movements. A model that can predict the S&P 500’s long-term movements and week-to-week returns could be very useful to the company in determining entry and exit points for the investment decisions. If this question remains unanswered, it could lead to them making poor investment decisions that could potentially hurt the company’s financial standing. Most importantly, I hope my analysis will provide the companies with conviction in their investment decisions. While many of us have sentiments based on news and other information we gather daily, it is hard to have conviction in your investment decisions if that is all you are basing it off. I hope to provide security and conviction to the company by using historical data to inform what is likely to come on a short and long-term basis, based on decades of history.
