@@ -14,5 +14,5 @@ My linear regression model was built simply to see how a model that did not capt
 
 Results:
 Firstly, my initial thoughts were confirmed with a standard linear regression. It was unable to capture the sequential aspect to the data and was essentially useless in predicting anything.  
-With my ARIMA models, I found that a standard ARMA was the best at predicting the last 6 years of S&P500 data. I chose this period to see how a model could handle the adjustment to and from COVID. My SARIMAX model that includes lots of financial features, struggled to compute this. Overall, I was able to build a model that is successfully able to predict from week to week, in normal market environments and was also able to adapt to rapidly changing market conditions. 
+With my ARIMA models, I found that a standard ARMA was the best at predicting the last 6 years of S&P500 data. I chose this period to see how a model could handle the adjustment to and from COVID. My SARIMAX model that includes lots of financial features, struggled to compute this. Overall, my best ARIMA model struggled to be predictive, ending with my predictions averaging about 4 percentage points off, while the log returns themselves only vary about 3.31%, showing their is quite a bit of room for improvement and that my model is not predictive yet.
 
