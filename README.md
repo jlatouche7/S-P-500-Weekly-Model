@@ -2,7 +2,7 @@
 S&P 500 Daily Movements Final Report
 
 
-link to jupyter notebook with findings: https://github.com/jlatouche7/S-P-500-Weekly-Model/blob/a1af5f48b1ca2c211b57b0290f1d206f3e37dd56/SP500%20-%20Daily%20Final%20(2).ipynb](https://github.com/jlatouche7/S-P-500-Weekly-Model/blob/d05f9b22eadf4c0b6882d671bda5edbac22484ba/SP500%20-%20Daily%20Final%20(4).ipynb)
+link to jupyter notebook with findings: https://github.com/jlatouche7/S-P-500-Weekly-Model/blob/56f5cae112147f8228bed70762a2a6bacdac37e8/SP500%20-%20Daily%20Final%20(4).ipynb
 
 Question: How can small companies leverage and effectively invest their extra resources so they can become a more profitable company or scale up in size?
 
